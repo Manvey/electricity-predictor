@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 This project predicts the next hour’s electricity consumption using machine learning models trained on historical household electricity usage data. The application is deployed using Streamlit for real-time prediction.
+<img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/bab5730d-7a9f-4107-b171-d44cb68f1c98" />
+
 
 ## 🚀 Live Application
 👉 https://electricity-usage-predictor.streamlit.app/
